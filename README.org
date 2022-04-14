@@ -1,0 +1,31 @@
+#+TITLE: Do I Understand Linear Algebra Done Right Yet?
+#+AUTHOR: Salvador Guzman
+#+EMAIL: guzmansalv@gmail.com
+#+OPTIONS: ^:{}
+
+* Preample
+** Introduction
+This repo answers the most important question in your life...
+
+** Do I Understand [Linear Algebra Done Right?](https://www.youtube.com/playlist?list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw)
+This is a progress checklist as I make my way through the "Linear Algebra Done
+Right" playlist on youtube.
+
+For each video I will make a checkbox and check it if I understand the material
+presented in the video proper.
+
+*** Why?
+I am hoping making my attempt to understand the nuances of linear algebra more
+public will incentivize me top work my way comprehensively through the playlist.
+
+* Content
+** Do I Understand...
+
+1. [Introduction](https://www.youtube.com/watch?v=lkx2BJcnyxk&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&index=1)
+2. [R^^{n} and C^^{n}](https://www.youtube.com/watch?v=lsRbaLl0PL8&list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&index=2)
+
+
+
+
+* End1.
+   1. [R^n and C^n]
