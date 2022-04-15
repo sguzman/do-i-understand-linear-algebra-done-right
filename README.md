@@ -4,13 +4,14 @@ A progress checklist as I make my way through the "Linear Algebra Done Right" pl
 ## Introduction
 For each video I will make a checkbox and check it if I understand the material presented in the video proper.
 
-## CheckBoxes
+## Check Boxes
+
 ### Do I Understand...
 1. - [X] ~[Introduction](https://www.youtube.com//watch?v=lkx2BJcnyxk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=1)~
 
 2. - [X] ~[R^n and C^n](https://www.youtube.com//watch?v=lsRbaLl0PL8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=2)~
 
-3. - [ ] [Definition of Vector Space](https://www.youtube.com//watch?v=rk__T8_kVc8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=3)
+3. - [X] ~[Definition of Vector Space](https://www.youtube.com//watch?v=rk__T8_kVc8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=3)~
 
 4. - [ ] [Subspaces](https://www.youtube.com//watch?v=IG-aN3VHr1I&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=4)
 
