@@ -8,7 +8,7 @@ For each video I will make a checkbox and check it if I understand the material 
 ### Do I Understand...
 1. - [X] ~[Introduction](https://www.youtube.com//watch?v=lkx2BJcnyxk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=1)~
 
-2. - [ ] [R^n and C^n](https://www.youtube.com//watch?v=lsRbaLl0PL8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=2)
+2. - [X] ~[R^n and C^n](https://www.youtube.com//watch?v=lsRbaLl0PL8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=2)~
 
 3. - [ ] [Definition of Vector Space](https://www.youtube.com//watch?v=rk__T8_kVc8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=3)
 
