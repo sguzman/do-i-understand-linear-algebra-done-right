@@ -6,7 +6,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 ## CheckBoxes
 ### Do I Understand...
-1. - [ ] [Introduction](https://www.youtube.com//watch?v=lkx2BJcnyxk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=1)
+1. - [X] ~[Introduction](https://www.youtube.com//watch?v=lkx2BJcnyxk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=1)~
 
 2. - [ ] [R^n and C^n](https://www.youtube.com//watch?v=lsRbaLl0PL8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=2)
 
