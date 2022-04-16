@@ -21,7 +21,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 7. - [X] ~[Dimension](https://www.youtube.com//watch?v=y6jRJ11ibMo&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=7)~
 
-8. - [ ] [Vector Space of Linear Maps](https://www.youtube.com//watch?v=GNg5drGm4JE&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=8)
+8. - [X] ~[Vector Space of Linear Maps](https://www.youtube.com//watch?v=GNg5drGm4JE&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=8)~
 
 9. - [ ] [Null Spaces And Ranges](https://www.youtube.com//watch?v=SoV7-w8x8pk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=9)
 
