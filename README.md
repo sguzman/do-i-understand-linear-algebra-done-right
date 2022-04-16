@@ -19,7 +19,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 6. - [X] ~[Bases](https://www.youtube.com//watch?v=mksFS97_RMs&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=6)~
 
-7. - [ ] [Dimension](https://www.youtube.com//watch?v=y6jRJ11ibMo&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=7)
+7. - [X] ~[Dimension](https://www.youtube.com//watch?v=y6jRJ11ibMo&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=7)~
 
 8. - [ ] [Vector Space of Linear Maps](https://www.youtube.com//watch?v=GNg5drGm4JE&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=8)
 
