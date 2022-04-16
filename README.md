@@ -17,7 +17,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 5. - [X] ~[Span and Linear Independence](https://www.youtube.com//watch?v=cRCaud-3AsY&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=5)~
 
-6. - [ ] [Bases](https://www.youtube.com//watch?v=mksFS97_RMs&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=6)
+6. - [X] ~[Bases](https://www.youtube.com//watch?v=mksFS97_RMs&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=6)~
 
 7. - [ ] [Dimension](https://www.youtube.com//watch?v=y6jRJ11ibMo&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=7)
 
