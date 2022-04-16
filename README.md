@@ -13,7 +13,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 3. - [X] ~[Definition of Vector Space](https://www.youtube.com//watch?v=rk__T8_kVc8&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=3)~
 
-4. - [ ] [Subspaces](https://www.youtube.com//watch?v=IG-aN3VHr1I&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=4)
+4. - [X] ~[Subspaces](https://www.youtube.com//watch?v=IG-aN3VHr1I&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=4)~
 
 5. - [ ] [Span and Linear Independence](https://www.youtube.com//watch?v=cRCaud-3AsY&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=5)
 
