@@ -25,7 +25,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 9. - [X] ~[Null Spaces And Ranges](https://www.youtube.com//watch?v=SoV7-w8x8pk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=9)~
 
-10. - [ ] [The Matrix of a Linear Map](https://www.youtube.com//watch?v=LlbzPlS3ZQk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=10)
+10. - [X] ~[The Matrix of a Linear Map](https://www.youtube.com//watch?v=LlbzPlS3ZQk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=10)~
 
 11. - [ ] [Matrix Multiplication](https://www.youtube.com//watch?v=Vf8z6XA7LJE&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=11)
 
