@@ -23,7 +23,7 @@ For each video I will make a checkbox and check it if I understand the material 
 
 8. - [X] ~[Vector Space of Linear Maps](https://www.youtube.com//watch?v=GNg5drGm4JE&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=8)~
 
-9. - [ ] [Null Spaces And Ranges](https://www.youtube.com//watch?v=SoV7-w8x8pk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=9)
+9. - [X] ~[Null Spaces And Ranges](https://www.youtube.com//watch?v=SoV7-w8x8pk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=9)~
 
 10. - [ ] [The Matrix of a Linear Map](https://www.youtube.com//watch?v=LlbzPlS3ZQk&amp;list=PLGAnmvB9m7zOBVCZBUUmSinFV0wEir2Vw&amp;index=10)
 
